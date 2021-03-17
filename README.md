@@ -3,8 +3,10 @@
 
 I am passionate about technology💻, languages📚 and geography🌎
 <b>Languages I speak (even though you didnt ask)</b>
-<li>Spanish 🇪🇸🇨🇴</li>
-<li>English 🇺🇸🇬🇧</li>
-<li>Japanese (N2) 🇯🇵</li>
+<ul>
+  <li>Spanish 🇪🇸🇨🇴</li>
+  <li>English 🇺🇸🇬🇧</li>
+  <li>Japanese (N2) 🇯🇵</li>
+</ul>
 
-- 📫 How to reach me **ivanwilf@hotmail.com**
+📫 How to reach me **ivanwilf@hotmail.com**
