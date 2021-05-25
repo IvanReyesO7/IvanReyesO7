@@ -1,7 +1,6 @@
 <h1 align="center">¡Hola! 👋, Ivan here</h1>
 <h3 align="center">- A Full Stack Developer based in Tokyo -</h3>
 
-<p>https://ivanreyes.codes/</p>
 <p>I am passionate about technology, languages, and geography 🌎</p>
 <p><b>Languages I speak (even though you didn't ask)</b></p>
 <ul>
