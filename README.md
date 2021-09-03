@@ -4,8 +4,8 @@
 <p>I am passionate about technology, languages, and geography 🌎</p>
 <p><b>Languages I speak (even though you didn't ask)</b></p>
 <ul>
-  <li>Spanish 🇪🇸 🇨🇴</li>
   <li>English 🇺🇸 🇬🇧</li>
+  <li>Spanish 🇪🇸 🇨🇴</li>
   <li>Japanese (N2) 🇯🇵</li>
 </ul>
 <p></p>
