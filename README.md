@@ -9,4 +9,4 @@
   <li>Japanese (N2) 🇯🇵</li>
 </ul>
 <p></p>
-You can reach me at <b>ivanwilf@hotmail.com</b>
+
