@@ -1,12 +1,16 @@
-<h1 align="center">¡Hola! 👋, Ivan here</h1>
-<h3 align="center">- A Full Stack Developer currently based in Tokyo -</h3>
+<h1 align="center">Hello, world! 👋 Ivan here</h1>
 
-<p>I am passionate about technology, languages, and geography 🌎</p>
-<p><b>Languages I speak (even though you didn't ask)</b></p>
-<ul>
-  <li>English 🇺🇸 🇬🇧</li>
-  <li>Spanish 🇪🇸 🇨🇴</li>
-  <li>Japanese (N2) 🇯🇵</li>
-</ul>
-<p></p>
+## Who am I?
+My name is Ivan and I'm a Software Engineer based in Tokyo.<br>
+Currently working on developing my carreer as a dev in Japan.<br>
+I am passionate about technology, languages, and geography.
+
+
+## Languages I can speak (even though you didn't ask)
+<p>
+  <img alt="Enlish" src="https://img.shields.io/badge/🇺🇸-English-lightgrey">
+  <img alt="Spansih" src="https://img.shields.io/badge/🇪🇸-Spanish-lightgrey">
+  <img alt="Japanese" src="https://img.shields.io/badge/🇯🇵-Japanese-lightgrey">
+</p>
+
 
