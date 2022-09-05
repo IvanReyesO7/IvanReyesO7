@@ -18,7 +18,7 @@ I am passionate about technology, languages, and geography.
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby on Rails-CC0000?style=flat-square&logo=Ruby on Rails&logoColor=white">
 </p>
 
-## Languages I can speak (even though you didn't ask)
+## Languages I can speak
 <p>
   <img alt="Enlish" src="https://img.shields.io/badge/🇺🇸-English-lightgrey">
   <img alt="Spansih" src="https://img.shields.io/badge/🇪🇸-Spanish-lightgrey">
