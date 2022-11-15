@@ -1,11 +1,10 @@
-<h1 align="center">Hello, world! 👋 Ivan here</h1>
+<h1 align="center">Hello, world!</h1>
 
-## Who am I?
 My name is Ivan and I'm a Software Engineer based in Tokyo.<br>
 Currently working on developing my carreer as a dev in Japan.<br>
-I am passionate about technology, languages, and geography.
+Passionate about technology, languages, and geography.
 
-## Languages and tools I use most of the times
+## Languages and tools I am using most of the times
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-e24e30?style=flat-square&logo=HTML5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-106eb2?style=flat-square&logo=CSS3&logoColor=white">
