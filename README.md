@@ -9,7 +9,6 @@ Passionate about technology, languages, and geography.
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-eed739?style=flat-square&logo=JavaScript&logoColor=white">
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white">
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white">    
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby on Rails-CC0000?style=flat-square&logo=Ruby on Rails&logoColor=white">
