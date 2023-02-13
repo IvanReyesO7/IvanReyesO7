@@ -12,6 +12,7 @@ Passionate about technology, languages, and geography.
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby on Rails-CC0000?style=flat-square&logo=Ruby on Rails&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-4479A1?style=flat-square&logo=Docker&logoColor=white">
 </p>
 
 ## Languages I can speak
