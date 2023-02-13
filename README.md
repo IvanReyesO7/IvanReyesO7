@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world!</h1>
 
-My name is Ivan and I'm a Software Engineer based in Tokyo.<br>
-Currently working on developing my carreer as a dev in Japan.<br>
+My name is Ivan.<br>
+Currently working as a Software Engineer in Japan.<br>
 Passionate about technology, languages, and geography.
 
 ## Languages and tools I am using most of the times
