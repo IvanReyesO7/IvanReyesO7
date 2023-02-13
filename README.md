@@ -1,10 +1,10 @@
 <h1 align="center">Hello, world!</h1>
 
-My name is Ivan.<br>
-Currently working as a Software Engineer in Japan.<br>
+My name is Ivan. I am a Software Engineer based in Tokyo.<br>
+Currently working at <a href="https://www.gmo.jp/en/">GMO Internet Group</a>.<br>
 Passionate about technology, languages, and geography.
 
-## Languages and tools I am using most of the times
+### Languages and tools I am using most of the times
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white">
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
@@ -15,7 +15,7 @@ Passionate about technology, languages, and geography.
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-4479A1?style=flat-square&logo=Docker&logoColor=white">
 </p>
 
-## Languages I can speak
+### Languages I can speak
 <p>
   <img alt="Enlish" src="https://img.shields.io/badge/🇺🇸-English-lightgrey">
   <img alt="Spansih" src="https://img.shields.io/badge/🇪🇸-Spanish-lightgrey">
