@@ -2,10 +2,12 @@
 #!/usr/bin/ruby
 
 class SoftwareEngineer
-  def initialize
-    @name = "Ivan Reyes"
-    @role = "Software Engineer"
-    @language_spoken = ["en_US", "es_CO", "ja_JP"]
+  def initialize(params)
+    @name              = params[:name]
+    @role              = params[:role]
+    @current_company   = params[:current_job]
+    @languages_spoken  = params[:languages_spoken]
+    @location          = params[:location]
   end
 
   def say_hello
@@ -13,6 +15,14 @@ class SoftwareEngineer
   end
 end
 
-me = SoftwareEngineer.new
+me = SoftwareEngineer.new({
+  name:             "Ivan Reyes",
+  role:             "Software Engineer",
+  current_company:  "GMO Internet Group",
+  languages_spoken: ["en_US", "es_CO", "ja_JP"],
+  location:         "Tokyo, Japan"
+  
+})
+
 me.say_hello
 ```
