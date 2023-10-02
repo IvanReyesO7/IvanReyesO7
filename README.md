@@ -5,7 +5,7 @@ class SoftwareEngineer
   def initialize(params)
     @name              = params[:name]
     @role              = params[:role]
-    @current_company   = params[:current_job]
+    @current_company   = params[:current_company]
     @languages_spoken  = params[:languages_spoken]
     @location          = params[:location]
   end
