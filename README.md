@@ -21,7 +21,6 @@ me = SoftwareEngineer.new({
   current_company:  "GMO Internet Group",
   languages_spoken: ["en_US", "es_CO", "ja_JP"],
   location:         "Tokyo, Japan"
-  
 })
 
 me.say_hello
