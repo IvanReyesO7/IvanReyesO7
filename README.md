@@ -19,7 +19,6 @@ class SoftwareEngineer
       "Can speak #{@languages_spoken[0...-1].join(",")}, and #{@languages_spoken[-1]}.",
       "You can contact me at: #{@contact}.",
     ].join("\n")
-    puts message
   end
 end
 
@@ -32,13 +31,14 @@ me = SoftwareEngineer.new({
   contact:          "https://www.linkedin.com/in/ivan-reyes-9504/"
 })
 
-me.say_hello
+puts me.say_hello
 ```
 ```
-# => Hello, World! Thanks for dropping by...
+Hello, World! Thanks for dropping by...
 My name is Ivan Reyes, I am a Software Engineer located in Tokyo, Japan.
 Currently working at GMO Internet Group.            
 Can speak en_US,es_CO, and ja_JP.
 You can contact me at: https://www.linkedin.com/in/ivan-reyes-9504/.
+=> nil
 ```
 
