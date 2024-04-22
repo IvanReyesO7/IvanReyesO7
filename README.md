@@ -16,7 +16,7 @@ class SoftwareEngineer
       "Hello, World! Thanks for dropping by...",
       "My name is #{@name}, I am a #{@role} located in #{@location}.",
       "Currently working at #{@current_company}.",
-      "Can speak #{@languages_spoken[0...-1].join(",")}, and #{@languages_spoken[-1]}.",
+      "Can speak #{@languages_spoken[0...-1].join(", ")}, and #{@languages_spoken[-1]}.",
       "You can contact me at: #{@contact}.",
     ].join("\n")
   end
@@ -37,7 +37,7 @@ puts me.say_hello
 Hello, World! Thanks for dropping by...
 My name is Ivan Reyes, I am a Software Engineer located in Tokyo, Japan.
 Currently working at GMO Internet Group.            
-Can speak en_US,es_CO, and ja_JP.
+Can speak en_US, es_CO, and ja_JP.
 You can contact me at: https://www.linkedin.com/in/ivan-reyes-9504/.
 => nil
 ```
