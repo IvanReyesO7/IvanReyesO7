@@ -16,7 +16,7 @@ class SoftwareEngineer
       "Hello, World! Thanks for dropping by...",
       "My name is #{@name}, I am a #{@role} located in #{@location}.",
       "Currently working at #{@current_company}.",
-      "Can speak #{@languages_spoken[0...-1].join(", ")}, and #{@languages_spoken[-1]}.",
+      "#{@languages_spoken.size > 1 ? "Can speak #{@languages_spoken[0...-1].join(", ")}, and #{@languages_spoken[-1]}." : "Can speak #{@languages_spoken[0]}"}",
       "You can contact me at: #{@contact}.",
     ].join("\n")
   end
