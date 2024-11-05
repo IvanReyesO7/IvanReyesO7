@@ -12,7 +12,7 @@ class SoftwareEngineer
   end
 
   def say_hello
-    message = [
+    [
       "Hello, World! Thanks for dropping by...",
       "My name is #{@name}, I am a #{@role} located in #{@location}.",
       "Currently working at #{@current_company}.",
