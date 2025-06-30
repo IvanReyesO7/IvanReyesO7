@@ -26,7 +26,7 @@ me = SoftwareEngineer.new({
   name:             "Ivan Reyes",
   role:             "Software Engineer",
   current_company:  "GMO Internet Group",
-  languages_spoken: ["en_US", "es_CO", "ja_JP"],
+  languages_spoken: ["en_US", "es_CO", "ja_JP"], # BCP 47 codes: English (US), Spanish (Colombia), Japanese (Japan)
   location:         "Tokyo, Japan",
   contact:          "https://www.linkedin.com/in/ivan-reyes-9504/"
 })
