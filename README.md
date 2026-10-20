@@ -31,9 +31,9 @@ end
 me = SoftwareEngineer.new(
   name:             "Ivan Reyes",
   role:             "Software Engineer",
-  current_company:  "株式会社RECEPTIONIST",
+  current_company:  "RECEPTIONIST Inc.",
   languages_spoken: ["en_US", "es_CO", "ja_JP"], # BCP 47 codes: English (US), Spanish (Colombia), Japanese (Japan)
-  location:         "Tokyo, Japan",
+  location:         "Japan",
   contact:          "https://www.linkedin.com/in/ivan-reyes-9504/"
 )
 
@@ -42,8 +42,8 @@ puts me.say_hello
 
 ```
 Hello, World! Thanks for dropping by...
-My name is Ivan Reyes, I am a Software Engineer located in Tokyo, Japan.
-Currently working at 株式会社RECEPTIONIST.            
+My name is Ivan Reyes, I am a Software Engineer located in Japan.
+Currently working at RECEPTIONIST Inc.            
 Can speak en_US, es_CO, and ja_JP.
 You can contact me at: https://www.linkedin.com/in/ivan-reyes-9504/.
 => nil
